@@ -1,0 +1,23 @@
+{
+
+  "TestingEnvironment": "QA",
+
+  "ApplicationUrl": {
+    "QAUrl": "https://www.flipkart.com/",
+    "StageUrl": ""
+  },
+
+  "ApplicationSettings": {
+    "ApplicationName": "Flipkart",
+    "BrowserName": "Chrome",
+    "IncognitoMode": "No",
+    "HeadlessBrowser": "No",
+    "KillDriverInstance": "Yes",
+    "AutoOpenReport": "Yes",
+    "TestingLevel": "Regression Tests"
+  }
+
+
+
+
+}
